@@ -1,6 +1,6 @@
 # Mykola Kantser
 
-## Technical Skills
+## 🛠 Technical Skills
 
 **Languages & Frameworks:** Java, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, JDBC  
 **Architecture & APIs:** Microservices, Distributed Systems, REST APIs, Event-Driven Architecture, OAuth2/OIDC, Keycloak  
